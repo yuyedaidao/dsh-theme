@@ -1,5 +1,5 @@
 {
-  "name": "dsh-theme-background",
+  "name": "dsh-theme",
   "version": "0.1.0",
   "description": "DSH Web UI 背景图片插件：在「设置 → 常规」里粘贴 URL 或选择本地图片，作为 Web UI 底层背景（浅/深色共用）。",
   "type": "module",
