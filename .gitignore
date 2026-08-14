@@ -1,0 +1,9 @@
+# 构建产物
+*.tgz
+
+# Node
+node_modules/
+.pnpm-store/
+
+# 系统
+.DS_Store

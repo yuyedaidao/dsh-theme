@@ -1,0 +1,6 @@
+# dsh-theme-background 组合层：把本包插入 web 组合。
+# 行内无需 inject/immediately —— 二者来自 package.json 的 dsh.client 声明；
+# 与 web-app 中 ui-theme 行的写法一致。
+- insert:
+  - id: theme-background
+    name: dsh-theme-background
